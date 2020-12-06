@@ -1,8 +1,11 @@
-# CGL - Chris enGine OpenGl
+# New location of this project
+This project was moved here: https://gitlab.com/chris-engine-opengl/cgl
+
+## CGL - Chris enGine OpenGl
 ---
 Current state of this library is heavily WIP, but it works. For me at least.
 
-## Build
+### Build
 To build this library, go under Debug dir, and do the following:
 
 ```bash
